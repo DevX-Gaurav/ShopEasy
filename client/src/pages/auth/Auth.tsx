@@ -46,9 +46,13 @@ type PendingAction =
   | null;
 
 const DEMO_CREDS = [
-  { role: "Admin", email: "gkj82003@gmail.com", password: "123456789" },
-  { role: "Vendor", email: "jhag82003@gmail.com", password: "123456789" },
-  { role: "Customer", email: "jhagaurav82003@gmail.com", password: "123456789" },
+  { role: "Admin", email: "kr.tarun.8873@gmail.com", password: "123456789" },
+  { role: "Vendor", email: "tarunmotov@gmail.com", password: "123456789" },
+  {
+    role: "Customer",
+    email: "tarun230519@arkajainuniversity.ac.in",
+    password: "123456789",
+  },
 ];
 
 /**
